@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/education/static/css/main.c344256c.chunk.css",
+    "main.js": "/education/static/js/main.002665de.chunk.js",
+    "main.js.map": "/education/static/js/main.002665de.chunk.js.map",
+    "runtime-main.js": "/education/static/js/runtime-main.b2667488.js",
+    "runtime-main.js.map": "/education/static/js/runtime-main.b2667488.js.map",
+    "static/js/2.5dbad926.chunk.js": "/education/static/js/2.5dbad926.chunk.js",
+    "static/js/2.5dbad926.chunk.js.map": "/education/static/js/2.5dbad926.chunk.js.map",
+    "static/js/3.6e7910bc.chunk.js": "/education/static/js/3.6e7910bc.chunk.js",
+    "static/js/3.6e7910bc.chunk.js.map": "/education/static/js/3.6e7910bc.chunk.js.map",
+    "index.html": "/education/index.html",
+    "static/css/main.c344256c.chunk.css.map": "/education/static/css/main.c344256c.chunk.css.map",
+    "static/js/2.5dbad926.chunk.js.LICENSE.txt": "/education/static/js/2.5dbad926.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/education/static/media/b2.1fe3e4e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2667488.js",
+    "static/js/2.5dbad926.chunk.js",
+    "static/css/main.c344256c.chunk.css",
+    "static/js/main.002665de.chunk.js"
+  ]
+}
